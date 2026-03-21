@@ -1,0 +1,5 @@
+crewai
+langchain-google-genai
+yfinance
+python-dotenv
+crewai_tools
